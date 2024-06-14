@@ -48,7 +48,7 @@
             padding-right: 30px;
             
             }
-            .banner.png{
+            .banner{
             display: flex;
             justify-content: center;
             }
@@ -104,3 +104,14 @@
                         text-align: center;
                         
                         }
+
+                        .logo_rodape{
+                            height: 80px;
+                            padding: 12px 0;
+                            
+                            }
+                            
+                            .link{
+                            color: #ffffff;
+                            text-decoration: none;
+                            }
