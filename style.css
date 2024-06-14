@@ -87,7 +87,7 @@
                     .escola{
 
                         background-image: linear-
-                        gradient(#40A2E3,#7FC2EF);
+                        gradient(#fafafa,#7FC2EF);
                         
                         color: white;
                         display: flex;
@@ -112,6 +112,6 @@
                             }
                             
                             .link{
-                            color: #ffffff;
+                            color: #000000;
                             text-decoration: none;
                             }
