@@ -11,7 +11,7 @@
     header{
         background-color: #141D2C
         ;
-        color: white;
+        color: rgb(0, 0, 0);
         width: 100%;
         padding: 20px;
         
@@ -71,7 +71,7 @@
                 }
 
                 .estudante{
-                    background-image: background-color(#FFF6E9);
+                    background-image: background-color(#132d46);
                     padding: 24px 0;
                     }
                     
